@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+##🌱 I’m currently learning web development, I am constantly learning and evolving in this field. My goal is to acquire solid knowledge and experience in web development to contribute significantly to innovative digital projects.
 <!--
 **EverardoNava/EverardoNava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
